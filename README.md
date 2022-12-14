@@ -2,7 +2,7 @@
 
 
 
-# *Everyday, the first thing I do is solve a Codewar!*
+#  Sharpening my skills with a daily CodeWar 
 
 <br>
 
