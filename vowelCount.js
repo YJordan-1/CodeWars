@@ -14,7 +14,7 @@ The input string will only consist of lower case letters and/or spaces.
 function getCount(str) {
   let count = 0;
 
-  for (c of str) {
+  for (const c of str) {
     if (/[aeiou]/.test(c)) {
       count++;
     }
