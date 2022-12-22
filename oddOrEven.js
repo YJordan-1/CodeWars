@@ -30,3 +30,9 @@ function oddOrEven(array) {
     return "odd";
   }
 }
+
+// REFACTOR
+function oddOrEven1(arr) {
+  let sum = arr.reduce((acc, cur) => acc + cur, 0);
+  return sum % 2 === 0 ? "even" : "odd";
+}
