@@ -14,7 +14,7 @@ XO("zzoo") => false
 
 function XO(str) {
   let xCount = (str.match(/x/gi) || []).length;
-  let oCount = (str.match(/x/gi) || []).length;
+  let oCount = (str.match(/o/gi) || []).length;
 
   return xCount === oCount;
 }
