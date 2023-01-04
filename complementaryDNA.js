@@ -8,7 +8,7 @@ In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G
 
 More similar exercise are found here: http://rosalind.info/problems/list-view/ (source)
 
-Example: (input --> output)
+Example: (input -> output)
 
 "ATTGC" --> "TAACG"
 "GTAT" --> "CATA"
